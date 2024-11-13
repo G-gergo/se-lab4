@@ -1,0 +1,3 @@
+SUCCESS  
+SUCCESS          # 1.fire
+FAIL             # 2.fire
